@@ -4,17 +4,17 @@ This repository is my analysis of Shakespeare's work. Following are the points c
 
 
 #### 1. WordCloud 
-    To get started, I tried to highlight important textual data points using a wordcloud.
+To get started, I tried to highlight important textual data points using a wordcloud.
 
-![WordCloud](https://github.com/pkondrakunta/shakespeare-work-analysis/blob/main/wc.png?raw=true)
+![WordCloud](https://github.com/pkondrakunta/shakespeare-work-analysis/blob/main/wc.jpg?raw=true)
 
 #### 2. Question Probabilities
 How many questions does Shakespeare ask?
 
-![Question Probabilities](https://github.com/pkondrakunta/shakespeare-work-analysis/blob/main/qp.png?raw=true)
+![Question Probabilities](https://github.com/pkondrakunta/shakespeare-work-analysis/blob/main/qp.jpg?raw=true)
 
 #### 3. Sentiment Analysis
-    Categorised various dialogues into 10 different sentitments using the `NRClex` library
+Categorised various dialogues into 10 different sentitments using the `NRClex` library
 
 *Sentiments Aggregate Table*
 
@@ -35,4 +35,4 @@ How many questions does Shakespeare ask?
 #### 4. Time Series Analysis
 Analysed how each category of play progresses with the timeline and justified the categorisation
 
-![Time Series Analysis (Romeo & Juliet)](https://github.com/pkondrakunta/shakespeare-work-analysis/blob/main/tsa.png?raw=true)
+![Time Series Analysis (Romeo & Juliet)](https://github.com/pkondrakunta/shakespeare-work-analysis/blob/main/tsa.jpg?raw=true)
