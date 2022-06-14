@@ -19,7 +19,7 @@ Categorised various dialogues into 10 different sentitments using the `NRClex` l
 *Sentiments Aggregate Table*
 
 | Category | 	Comedy	| History	| Tragedy | 
-| :--- | :--- | :---  | :---  | :--- |
+| :--- | :--- | :---  | :---  |
 | fear	| 5823	| 6446	| 7455 | 
 | anger	| 4824	| 5319	| 6096 |
 | anticipation	| 7487	| 5811	| 7155 |
